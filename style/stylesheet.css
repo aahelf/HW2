@@ -1,4 +1,13 @@
-body {background-color:#C3CDE6;}
+body {	
+	background-color:#C3CDE6;
+}
 
+li {
+	font-style: italic;	
+}
 
+h2.heading {
+	text-align: center;
+	border-style: inset;
+}
 
